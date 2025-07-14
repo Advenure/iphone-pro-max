@@ -9,7 +9,7 @@ export default function HeroSection (){
         
                 <h1 className=" text-[#FFFFFF] text-6xl grid grid-cols-1 place-items-center md:flex md:text-7xl lg:flex lg:text-8xl">IPhone 14 <span className="text-7xl font-bold lg:flex lg:text-9xl ">Pro</span></h1>
                 <p className=" text-[#949191] text-[22px] text-center pl-5  mt-2  md:flex text[32px] ">Created to change everything for the better. For everyone</p>
-           <button className="px-16 mt-9 py-4 text-[#FFFFFF] text-[16px] rounded-md focus:outline-none border border-white">Shop Now</button>
+           <button className="px-16 mt-9 py-4 text-[#FFFFFF] text-[16px] rounded-md focus:outline-none border border-white items-center justify-center">Shop Now</button>
             </div>
            {/* image section */}
             <div className="w-full md:w-[40%] flex justify-center items-center h-[60vh] ">
